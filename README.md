@@ -3,7 +3,7 @@
 ## Introduction
 
 This repository is released for MLVSNet in our [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_MLVSNet_Multi-Level_Voting_Siamese_Network_for_3D_Visual_Tracking_ICCV_2021_paper.pdf). Here we include our MLVSNet model (PyTorch) and code for data preparation, training and testing on KITTI tracking dataset.
-![teaser](https://github.com/CodeWZT/MLVSNet/temp/framework.png)
+![teaser](https://github.com/CodeWZT/MLVSNet/blob/main/temp/framework.png)
 ## Preliminary
 
 * Install ``python 3.6``.
