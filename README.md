@@ -1,4 +1,4 @@
-# PyTorch code for “MLVSNet: Multi-level Voting Siamese Network for 3D Visual Tracking”.
+# [ICCV 2021] PyTorch code for “MLVSNet: Multi-level Voting Siamese Network for 3D Visual Tracking”.
 
 ## Introduction
 
